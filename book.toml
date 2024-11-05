@@ -1,0 +1,6 @@
+[book]
+authors = ["Virus"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Computer Science - SEE"

@@ -1,17 +1,2 @@
 # Ignore the build output directory
-/book/
-
-# Ignore Rust build artifacts if you're using Cargo
-/target/
-**/*.rs.bk
-
-# Ignore temporary files
-*.log
-*.tmp
-*.swp
-*.bak
-
-# Ignore files created by editors
-.idea/
-.vscode/
-.DS_Store
+/book

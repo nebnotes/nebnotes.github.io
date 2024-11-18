@@ -78,11 +78,21 @@
 > Primary key is the special field or group of field in the table that uniquely identifies each record from the database. Primary keys are unique and not null.
 
 - Importance of primary key:
-    - to identify each record uniquely
-    - to reduce and control duplication of record
-    - to set relationship between tables(foreign key is also required for this)
+    - To identify each record uniquely
+    - To reduce and control duplication of records
+    - To set relationships between tables (foreign key is also required for this)
 
 > In Design view, click on field you want to apply primary key to, click on primary key button from tools group in design tab.
+
+## Foreign Key
+
+> A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. The foreign key establishes a link between the data in the two tables.
+
+- It ensures referential integrity of the data.
+- It helps maintain the consistency and accuracy of the data.
+- It allows you to create a relationship between tables, enabling complex queries and data analysis.
+
+---
 
 ## Field Properties Pane
 
@@ -94,8 +104,8 @@
     - Default value
     - Format: Allows displaying in different format(g. for date)
     - Input mask: Specifies pattern of data
-    - Validation rule
-    - Validation text
+    - Validation rule: Specifies criteria that data entered into the field must meet.
+    - Validation text: The message displayed when data entered does not meet the validation rule.
     - Required
     - Indexed: Speeds up searching
 

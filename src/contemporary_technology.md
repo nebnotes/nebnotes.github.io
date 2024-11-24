@@ -1,4 +1,4 @@
-# Contemporary Technology
+<center> <u> <h1> Contemporary Technology </h1> </u> </center>
 
 > Contemporary technology refers to the current state of technological advancements and innovations that are prevalent in today's society.
 
@@ -39,6 +39,8 @@
 - Example: Siri, Cortana, Alexa, ChatGPT etc.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Virtual Reality(VR)
 

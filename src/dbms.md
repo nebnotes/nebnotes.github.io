@@ -1,8 +1,8 @@
-# DataBase Management System
+<center> <u> <h1> DataBase Management System </h1> </u> </center>
 
 > Data refers to raw facts and figures.
 
-- **Information** refers to processed form of information.
+- **Information** refers to processed form of data.
 
 > Database is an organized collection of inter-related data.
 
@@ -10,7 +10,7 @@
     - Manual database
     - Electronic database
 
-> Database management system is digital system that allows you to create, modify, process, store and retrieve information in an organized form.
+> Database management system is a digital system that allows you to create, modify, process, store, and retrieve information in an organized form.
 
 - Examples of DBMS:
     - Ms-Access
@@ -25,11 +25,12 @@
 
 ## Components of Database
 
-- Table : Table is collection of rows and columns that builds database.
-- Record: Record or row consists information about single item in database.
-- Field: Field contains information about certain type for all records.
-
+- **Table**: A table is a collection of rows and columns that builds the database.
+- **Record**: A record, or row, consists of information about a single item in the database. A record is also called a tuple.
+- **Field**: A field, or column, contains information about a specific attribute for all records.
 ---
+
+<div style="page-break-after: always;"></div>
 
 # MS Access
 
@@ -37,11 +38,11 @@
 
 ## Features of Ms-Access:
 
-- Easy to create complex database
-- Data can be analysed and modified using queries with ease
-- Creates elaborated reports from your data.
-- Makes customized data entry forms.
-- Presents your data dynamically on the WWW (World Wide Web).
+- Easy to create complex databases
+- Data can be analyzed and modified using queries with ease
+- Creates elaborate reports from your data
+- Makes customized data entry forms
+- Presents your data dynamically on the WWW (World Wide Web)
 
 ## Major objects of Ms-Access
 
@@ -55,7 +56,7 @@
 | Data Type      | Description                                                                 | Max Space          |
 |----------------|-----------------------------------------------------------------------------|--------------------|
 | Short Text     | Alphanumeric data                                                          | 255 characters     |
-| Long Text      | Large amounts of alphanumeric data                                         | Up to 64,000 chars(src: Janak publication book)  |
+| Long Text      | Large amounts of alphanumeric data                                         | Up to 64,000 characters  |
 | Number (Byte)  | Numeric data                                                               | 1 byte             |
 | Number (Integer) | Numeric data                                                             | 2 bytes            |
 | Number (Long Integer) | Numeric data                                                       | 4 bytes            |
@@ -71,26 +72,7 @@
 | Calculated     | Results of a calculation based on other fields in the same table           | Dependent on result type |
 | Lookup Wizard  | Creates a field that allows you to choose a value from another table or list | Dependent on source type |
 
-> Field description column can be used to help you remember tthe use and purpose of a particular field. (Optional)
-
----
-
-> Primary key is the special field or group of field in the table that uniquely identifies each record from the database. Primary keys are unique and not null.
-
-- Importance of primary key:
-    - To identify each record uniquely
-    - To reduce and control duplication of records
-    - To set relationships between tables (foreign key is also required for this)
-
-> In Design view, click on field you want to apply primary key to, click on primary key button from tools group in design tab.
-
-## Foreign Key
-
-> A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. The foreign key establishes a link between the data in the two tables.
-
-- It ensures referential integrity of the data.
-- It helps maintain the consistency and accuracy of the data.
-- It allows you to create a relationship between tables, enabling complex queries and data analysis.
+> Field description column can be used to help you remember the use and purpose of a particular field. (Optional)
 
 ---
 
@@ -111,9 +93,33 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
+## Primary Key
+
+> Primary key is the special field or group of field in the table that uniquely identifies each record from the database. Primary keys are unique and not null.
+
+- Importance of primary key:
+    - To identify each record uniquely
+    - To reduce and control duplication of records
+    - To set relationships between tables (foreign key is also required for this)
+
+> In Design view, click on field you want to apply primary key to, click on primary key button from tools group in design tab.
+
+## Foreign Key
+
+> A foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. The foreign key establishes a link between the data in the two tables.
+
+- It ensures referential integrity of the data.
+- It helps maintain the consistency and accuracy of the data.
+- It allows you to create a relationship between tables, enabling complex queries and data analysis.
+
+---
+
+
 ## Views in Ms-Access
 
-- Design view: Related with ttable structure. You can add, edit or delete fields and its properties.
+- Design view: Related with table structure. You can add, edit, or delete fields and their properties.
 - Datasheet view: Related with records. You can add, modify, search or delete records.
 
 > You can switch view using view dropdown button from tools group in design tab.
@@ -122,7 +128,7 @@
 
 ## Query
 
-> Question is the question or request for the database.
+> Query is the question or request for the database.
 
 - Types of query:
     - Select Query: Used to select and display relevant information.
@@ -132,6 +138,8 @@
         - Insertion can be done using SQL statement too.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Forms
 

@@ -1,4 +1,4 @@
-# Networking and Telecommunication
+<center> <u> <h1> Networking and Telecommunication </h1> </u> </center>
 
 > Telecommunication is the exchange of data or instruction over a distance using signals or electromagnetic waves.
 
@@ -40,6 +40,8 @@
     - Twisted pair (RJ-45 connector)
     - Fiber Optics (ST, SMA, SC connectors)
 
+<div style="page-break-after: always;"></div>
+
 #### Co-Axial Cable
 
 > Consists of a inner conductor surrounded by an insulating layer and again surrounded by conducting shield. 
@@ -74,19 +76,19 @@
 > Made up of plastic or glass fiber to transmit data.
 
 - Advantages:
-    - High bandwidth
+    - High bandwidth and Fast
     - low power loss
     - Longer distance support
     - Good resistance
     - Low attenuation
-    - Fast
 
-- Disadvantages:
+- Disadvantages:    - 
+
     - Most Expensive
     - Difficult to join (splice)
     - Easily breakable
 
-### Unguided transmission media
+## Unguided transmission media
 
 > Unguided transmission media doesn't use wire or cable for data transmission.
 
@@ -119,6 +121,8 @@
 - Infrared: short range, used in remotes
 - Bluetooth: short range, used for short range communication (mostly to connect peripherals). (2.4GHz)
 
+<div style="page-break-after: always;"></div>
+
 ## Computer Network
 
 > Computer network is a group of two or more computers and devices connected to each other through wired or wireless media to share resources.
@@ -150,9 +154,12 @@
     - Connectors: Used to connect communication media with network devices.(BNC, RJ-45, ST)
     - Network devices: Devices used for setting up network like hub, switch etc.
 
+<div style="page-break-after: always;"></div>
+
 ## Network Devices
 
 ### Hub
+
 > Networking device with multiple port that transmits received data to all connected computers including sender.
     - Passive hub: No electricity and no amplification.
     - Active hub: Requires electricity and amplifies signal
@@ -165,11 +172,13 @@
 > Hub is cheaper but it is less efficient and slower as it broadcasts packets to all connected computers and is half duplex.
 
 ### Bridge
+
 > Bridge connects two networks with similar/same protocol.
 
 - Bridge inspects incoming signals (MAC address) and decides whether to forward or discard it making it efficient.
 
 ### Gateway
+
 > Gateway connects two networks having different protocol. 
 
 - It is like a dedicated server that acts as protocol converter. 
@@ -191,12 +200,7 @@
 
 - Modulation is required as telephone wire can only transfer analog signal and demodulation is required as computers understand digital signal.
 
-## Types of Computer Network(Based on size)
-
-- Three types:
-    - Local Area Network: Small network limited within a small area like a room, a building, school, college etc. Eg. A buildings CCTV network.
-    - Metropolitan Area Network: Network mostly within cities and is used for sharing of regional resources. Eg. Traffic light network of a city.
-    - Wide Area Network: Very large network that covers country, countries or even the world. Eg. Internet.
+<div style="page-break-after: always;"></div>
 
 ## Network Topology
 
@@ -225,6 +229,7 @@
     - Network performance degrades with heavy traffic.
 
 ### Ring/Loop Topology
+
 > In this topology, a closed loop is formed by computers. 
 
 - Data is transmitted in one direction(clockwise or anticlockwise).
@@ -236,6 +241,8 @@
     - If a node fails, whole network is disturbed. 
     - Difficult to troubleshoot.
     - Adding or removing node disturbs the network.
+
+<div style="page-break-after: always;"></div>
 
 ### Star Topology
 
@@ -264,6 +271,15 @@
     - Not practical for large number of devices.
 
 > Hybrid topology can be made by combining different topology. 
+
+## Types of Computer Network(Based on size)
+
+- Three types:
+    - Local Area Network: Small network limited within a small area like a room, a building, school, college etc. Eg. A buildings CCTV network.
+    - Metropolitan Area Network: Network mostly within cities and is used for sharing of regional resources. Eg. Traffic light network of a city.
+    - Wide Area Network: Very large network that covers country, countries or even the world. Eg. Internet.
+
+<div style="page-break-after: always;"></div>
 
 ## Network Architecture/Model
 

@@ -1,4 +1,4 @@
-# E-Commerce
+<center> <u> <h1> E-Commerce </h1> </u> </center>
 
 > E-Commerce refers to electronic transactions such as buying, selling and exchanging of goods, services and information over computer network.
 
@@ -33,7 +33,7 @@
 - Lower operation cost
 - Review system
 
-## Limitations of E-Commerce
+## Limitations/Disadvantages of E-Commerce
 
 - Lack of physical inspection
 - Not feasible for all products and services
@@ -44,9 +44,11 @@
 
 ## Types/Models of E-Commerce
 
-- Business-to-Consumer(B2C)
-- Business-to-Business(B2B)
-- Consumer-to-Consumer(C2C)
+- **Business-to-Consumer (B2C)**: This model involves transactions between businesses and individual consumers. Examples include online retailers like Amazon, daraz and eBay.
+
+- **Business-to-Business (B2B)**: This model involves transactions between businesses. Examples include companies like Alibaba and AliExpress.
+
+- **Consumer-to-Consumer (C2C)**: This model involves transactions between consumers, usually facilitated by a third-party platform. Examples include eBay, hamrobazar and Craigslist.
 
 > M-Commerce is the extended version of e-commerce which is done through wireless handheld devices such as smartphones.
 

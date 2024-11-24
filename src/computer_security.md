@@ -1,4 +1,4 @@
-# Computer Security
+<center> <u> <h1> Computer Security </h1> </u> </center>
 
 > Computer Security is the protection of computer (hardware,software and data) from malicious attacks or accidental damage.
 
@@ -21,7 +21,9 @@
 
 ---
 
-## Non-Physical / Logical Threats
+<div style="page-break-after: always;"></div>
+
+<h2> <u> Non-Physical / Logical Threats </u> </h2>
 
 ## Malicious codes:
 
@@ -63,6 +65,8 @@
 
 - **Adware** : Type of malware that displays unwanted advertisements on your computer.
 
+<div style="page-break-after: always;"></div>
+
 - **Other non-physical(i.e. logical threats)**:
     - **Hacking** : Identifying and exploiting weakness to gain unauthorized access.
         - White hat hackers intend to fix identified weakness
@@ -78,6 +82,8 @@
     - **Rootkit**: Tools that enable unauthorized control of a computer system without detection.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Information security
 
@@ -111,6 +117,8 @@
 - **Updating System Software**: Regularly installing updates and patches for the operating system and applications to fix security vulnerabilities, improve performance, and add new features. 
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Hardware Security
 

@@ -1,4 +1,4 @@
-# Ethical and Social Issues in ICT
+<center> <u> <h1> Ethical and Social Issues in ICT </h1> </u> </center>
 
 > Computer ethics is a set of moral principles or code of conducts that regulate the use of computers systematically without harming others.
 

@@ -1,7 +1,14 @@
 [book]
-authors = ["Virus"]
+authors = ["Bishal Tiwari"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Computer Science - SEE"
 default-theme = "Ayu"
+
+[output.html]
+print_enable = false
+git-repository-url = "https://github.com/nebnotes/nebnotes.github.io"
+
+[output.html.print]
+enable = true

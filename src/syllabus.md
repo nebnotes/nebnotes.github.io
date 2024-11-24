@@ -1,5 +1,9 @@
 <center><h1><u>COMPUTER SCIENCE</u></h1></center>
 
+<div class="syllabus-container">
+
+<div class="column">
+
 ## Group “A” [10 Marks]
 
 1. **Answer the following questions in one sentence:** (6 * 1 = 6)
@@ -26,6 +30,10 @@
 
 7. **QBASIC - ANALYTICAL QUESTIONS:** (2)
 
+</div>
+
+<div class="column">
+
 ## Group “C” [16 Marks]
 
 8. **Number System:** (4 * 1 = 4)
@@ -45,3 +53,21 @@
 - QBASIC
 - Database Management System (DBMS)
 - Theory
+
+---
+
+</div>
+
+</div>
+
+<style>
+.syllabus-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    flex: 1;
+    min-width: 300px;
+    margin: 10px;
+}
+</style>

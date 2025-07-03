@@ -10,3 +10,4 @@
 - [Programming Theory](./programming.md)
 - [C Programming](./c_note.md)
 - [C PastPapers Solution](./C%20PastPapers%20Solution.md)
+- [Optional Mathematics](./Optional%20Mathematics.md)

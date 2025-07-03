@@ -33,12 +33,10 @@ jobs:
         uses: actions/checkout@v3
       # actions/download-artifact@v3 does not allow sharing across workflows
       - name: Download artifact
-        id: download-artifact
-        uses: dawidd6/action-download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: book
           path: book/
-          workflow: build.yml
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact

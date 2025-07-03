@@ -1,4 +1,4 @@
-name: Mdbook build
+name: Mdbook Build
 
 on:
   push:

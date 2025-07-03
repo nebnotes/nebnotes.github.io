@@ -6,7 +6,7 @@ on:
   push:
     branches: ["main"]
   workflow_run:
-    workflows: ["Mdbook build"]
+    workflows: ["Mdbook Build"]
     types:
       - completed
 

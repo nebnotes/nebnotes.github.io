@@ -1,5 +1,20 @@
 # Some videos that might be helpful. 
 
+## Class Recoding(Whole syllabus will be covered eventually):
+
+### Coordinate Geometry
+
+- [Angle between straight lines(Derivation)](https://youtu.be/1a51_URJFa0?si=XbvI5fHJGREUBBCr)
+- [Angle between straight lines(Short Questions)](https://youtu.be/fyVmyN7-2X4)
+- [Angle between straight lines(Long Questions)-Will be posted on July 8]()
+
+### Matrix
+- [Determinant and Inverse-Will be posted on July 9]()
+- [Solution of Equations by Matrix method-Will be posted on July 10]()
+- [Solution of Equations by Cramers Rule-Will be posted on July 10]()
+
+---
+
 ## Shorts:
 
 - [Conic section Visualization(49s)](https://youtube.com/shorts/Y9y6HEpW8W4?feature=share)
@@ -10,6 +25,7 @@
 
 - [Graph of Quadratic function(1 min 27s)](https://youtu.be/Al6BF10BSPY)
 - [Cramer's Rule Explained(4 min 13s)](https://youtu.be/g_eMbMuzaOo)
+
 
 ## Derivations:
 - [Angle between straight lines](https://youtu.be/1a51_URJFa0)

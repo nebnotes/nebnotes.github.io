@@ -6,12 +6,12 @@
 
 - [Angle between straight lines(Derivation)](https://youtu.be/1a51_URJFa0?si=XbvI5fHJGREUBBCr)
 - [Angle between straight lines(Short Questions)](https://youtu.be/fyVmyN7-2X4)
-- [Angle between straight lines(Long Questions)-Will be posted on July 8]()
+- [Angle between straight lines(Long Questions)](https://youtu.be/gGv6WZeOHtA)
 
 ### Matrix
-- [Determinant and Inverse-Will be posted on July 9]()
-- [Solution of Equations by Matrix method-Will be posted on July 10]()
-- [Solution of Equations by Cramers Rule-Will be posted on July 10]()
+
+- [Matrix, Determinant and Inverse - Short Questions](https://youtu.be/q87Qfao9Hcc)
+- [System of Linear Equations - Matix method & Cramer's Rule - Will be posted on July 10 at 6:45pm](https://youtu.be/szDjnezQ608)
 
 ---
 
@@ -28,6 +28,7 @@
 
 
 ## Derivations:
+
 - [Angle between straight lines](https://youtu.be/1a51_URJFa0)
 
 ## Some old videos: (Bad audio quality but complete topic)

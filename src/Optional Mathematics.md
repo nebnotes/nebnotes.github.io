@@ -4,25 +4,47 @@
 
 ## Class Recoding(Whole syllabus will be covered eventually):
 
+### Algebra(Coming Soon) [1+1+2+2+3+3+4=16]
+
+---
+
+### Limit and Continuity [1+3 = 4]
+
+- [Continuity: 38min 09s](https://youtu.be/vz9oGFAOj_Q)
+
+---
+
 ### Coordinate Geometry [1+1+2+3+4=11 marks]
 
 - [Angle between straight lines(Derivation): 9min 35s](https://youtu.be/1a51_URJFa0?si=XbvI5fHJGREUBBCr)
 - [Angle between straight lines(Short Questions): 22min 47s](https://youtu.be/fyVmyN7-2X4)
 - [Angle between straight lines(Long Questions): 35min 49s](https://youtu.be/gGv6WZeOHtA)
 
-- [Pair of straight lines (Coming soon)]
-- [Circle (Coming soon)]
-- [Conic Section](https://youtube.com/shorts/Y9y6HEpW8W4?feature=share)
+- [Conic Section: 49s visualization](https://youtube.com/shorts/Y9y6HEpW8W4?feature=share)
+
+- [Pair of straight lines(Complete): 49min 40s](https://youtu.be/6Cf4yeuNdCk)
+- [Circle (Coming up next)]
+
+
+---
 
 ### Matrix [1+2+3 = 6 marks]
 
 - [Matrix, Determinant and Inverse - Short Questions: 20min 36s](https://youtu.be/q87Qfao9Hcc)
-- [System of Linear Equations - Matix method & Cramer's Rule - Will be posted on July 10 at 6:45pm](https://youtu.be/szDjnezQ608)
+- [System of Linear Equations - Matix method & Cramer's Rule](https://youtu.be/szDjnezQ608)
 
+---
 
-### Statistics
+### Statistics [2+3+3 = 8]
 
-- Coming up Next
+- [Quartile Deviation: 28min 55s](https://youtu.be/psbigTiSRrk)
+- [Mean Deviation and Standard Deviation: 38min 49s](https://youtu.be/erPYDRLOxcg)
+
+---
+
+### Trigonometry [1+1+2+2+3+3+3 = 15]
+
+- Coming Soon
 
 ---
 
